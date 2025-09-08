@@ -1,2 +1,2 @@
 # java_class
-Java class in the course EFA
+Java class in the course EFA IT developes
