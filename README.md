@@ -38,6 +38,7 @@ Bibliotecas padrão do Java
 📄 Licença
 
 Este repositório é de uso pessoal e educacional. Não está autorizado o uso comercial ou distribuição sem prévia autorização.
+Formadora: Márcia Cardoso
 
 📘 Beginner Java Exercises
 
@@ -76,3 +77,4 @@ Java standard libraries
 📄 License
 
 This repository is for personal and educational use. Commercial use or distribution without prior permission is not allowed.
+Teacher: Márcia Cardoso
